@@ -1,0 +1,9 @@
+C:\Users\NArbia\Documents\Visual Studio 2013\Projects\Basic-SQLtest\Basic-SQLtest\bin\Release\Basic-SQLtest.exe.config
+C:\Users\NArbia\Documents\Visual Studio 2013\Projects\Basic-SQLtest\Basic-SQLtest\bin\Release\Basic-SQLtest.exe
+C:\Users\NArbia\Documents\Visual Studio 2013\Projects\Basic-SQLtest\Basic-SQLtest\bin\Release\Basic-SQLtest.pdb
+C:\Users\NArbia\Documents\Visual Studio 2013\Projects\Basic-SQLtest\Basic-SQLtest\obj\Release\Basic_SQLtest.App.resources
+C:\Users\NArbia\Documents\Visual Studio 2013\Projects\Basic-SQLtest\Basic-SQLtest\obj\Release\Basic_SQLtest.Properties.Resources.resources
+C:\Users\NArbia\Documents\Visual Studio 2013\Projects\Basic-SQLtest\Basic-SQLtest\obj\Release\Basic-SQLtest.csproj.GenerateResource.Cache
+C:\Users\NArbia\Documents\Visual Studio 2013\Projects\Basic-SQLtest\Basic-SQLtest\obj\Release\Basic-SQLtest.exe
+C:\Users\NArbia\Documents\Visual Studio 2013\Projects\Basic-SQLtest\Basic-SQLtest\obj\Release\Basic-SQLtest.pdb
+C:\Users\NArbia\Documents\Visual Studio 2013\Projects\Basic-SQLtest\Basic-SQLtest\obj\Release\Basic-SQLtest.csprojResolveAssemblyReference.cache
